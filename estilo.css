@@ -1,0 +1,34 @@
+body {
+	color: green; 
+	background-color: yellow;
+}
+
+p{
+	color: brown;
+	font-weight: bold;
+}
+
+h1,h2,h3,h4{
+	text-align: center;
+}
+
+ul{
+	font-size: 25px;
+}
+
+
+/* exemplo de classe */
+.azul{
+	color: red;
+	text-align: center;
+	font-size: 18px;
+}
+
+<p class="azul">Suspendisse lobortis ipsum at vulputate blandit.</p>
+
+/*exemplo de id*/
+#idBB{
+	background-color: lightblue;
+}
+
+<input type="text" name="nome" id="idBB">

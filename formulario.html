@@ -1,20 +1,46 @@
-<form action="teste.php" method="post">
-    <div>
-        <label for="n1">N1:</label>
-        <input type="text" name="n1" />
-    </div>
-    <div>
-        <label for="n2">N2:</label>
-        <input type="text" name="n2" />
-    </div>
-    <div>
-        <label for="n3">N3:</label>
-        <input type="text" name="n3" />
-    </div>
-    <div>
-        <label for="n4">N4:</label>
-        <input type="text" name="n4" />
-    </div>
-    
-    <input type="submit">
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="estilo.css" />
+</head>
+<body>
+<h1 class="azul">historia</h1>
+<li><a href="base.html">base</a></li>
+<li><a href="exexmploYo.html">exemplo Yo</a></li>
+<li><a href="formulario.html">formulario</a></li>
+<li><a href="funciona.html">funciona</a></li>
+<li><a href="tabela.html">tabela</a></li>
+<li><a href="inicial.html">inicial</a></li>
+<hr>
+texto só de migue
+<!-- uso da classe azul-->
+<form class="azul">
+	<label> digite seu nome: </label>
+
+	<!-- uso da id idBB-->
+	<input type="text" name="nome" id="idBB"><br>
+	<label>Informe seu email:</label>
+	<input type="e-mail" name="email"><br>
+	<label>Cidade:</label>
+	<select name="cidade">
+		<option>fortaleza</option>
+		<option>aracoiaba</option>
+		<option>maracanau</option>
+		<option>caucaia</option>
+	</select>
+	<br><label>Informe objetos de casa:</label>
+	<input type="checkbox" name="tv">tv
+	<input type="checkbox" name="nt">notebook
+	<input type="checkbox" name="netbl">acesso a internet banda larga
+	<input type="checkbox" name="esgoto">egoto
+	<br>
+	<label>renda:</label>
+	<input type="radio" name="salario" value="menos1s">menos de um salario
+	<input type="radio" name="salario" value="1a2">de um a dois
+	<input type="radio" name="salario" value="tres">tres
+	<input type="radio" name="salario" value="mais4">quatro ou mais
+	<input  type="submit" value="enviar ddaos">
 </form>
+</body>
+</html>
