@@ -105,3 +105,39 @@ medidas de variabilidade ou dispersão
 
 
 
+Aula 05 - Análise bidimensional
+tipo relação entre duas variáveis (similaridades) ex: peso X altura, procurando relações entre as variáveis
+
+existem 3 possibilidades
+- as duas variáveis são qualitativas
+- as duas variáveis são quantitativas
+- uma variável é qualitativa e outra quantitativa
+
+Coeficiente de correlação
+- o que correlaciona uma variável a outra, o grau de intensidade e o sentido desta
+
+Correlação não implica em causalidade 
+@correlações espúrias
+
+
+Aula 06 - Regressão linear simples
+Na relação entre duas variáveis, aqui é o estudo de uma variável em relação a outra, ai se cria uma fórmula
+
+Coeficiente de determinação (R²) mostra a força de relação linear entre X e Y
+
+Aula 07 - Derivadas - Introdução à probabilidade
+
+fenômenos:
+- determinísticos.
+- não-determinísticos
+
+combinação de eventos
+propriedades das operações entre eventos
+- idempotentes
+- comutativas
+- associativas
+- distribuitivas
+- complementares
+- leis de morgan (ou leis da dualidade)
+- outras propriedades
+
