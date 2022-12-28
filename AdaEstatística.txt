@@ -1,0 +1,107 @@
+ LM Tech Data Talents Ada
+ 
+Aula 01 - Introdução
+
+- introdução à estatística e amostragem
+- tipos de dados, tabelas e distribuição de frequência
+- visualização gráfica
+- medidas de posição e medidas de dispersão
+- análise bidimensional
+- regressão linear simples
+- introdução à probabilidade
+- probabildiade
+- Análise combuinatória
+- probabilidade total, parcial e teorema de bayes
+
+
+Estatistica
+	coleta, análise, organização, descrição, interpretação e apresentação de dados experimentais. com o intpuito de responder um problema do mundo real.
+
+		~ descritiva
+		~ probabilidade
+		~ inferência
+
+
+	Amostragem
+		~ amostra probabilística
+		~ amostra não probabilística
+
+		* técnincas
+			- Amostra aleatória simples
+				~ números de uma urna, com ou sem reposição.
+			- Amostra estratificada
+				~ divisão em estratos homogêneos, ai pega um aleatório de cada estrato
+			- amostra sistermática
+				~ seleção de elementos seguindo uma regra pré-definida
+			- amostra por conglomerados
+				~ divisão do todo em miniaturas, não homogêneas, ai pega um aleatório desses
+
+
+Aula 02 - Tipos de dados, tabelas e distribuição de frequência
+
+Tipo de variáveis e pontos importante para construção de uma tabela
+Estatística parte da matemática aplicada usada para a tomada de decisões
+Estatística descritiva
+	- coleta, organização, descrição dos dados, cálculo e a interpretação de coeficientes
+estatística indutiva ou inferencial
+	- análise e interpretação dos dados, margem de incerteza, é fundamentada na teoria da probabilidade.
+
+Dados
+	-> categorizados(qualitativos)
+		~ Nominais
+		~ Ordinais
+	-> Numéricos (quantitativos)
+		~ Discretos
+		~ Contínuos
+
+Contrução de tabelas (deve ser um resumo das observações)
+	- título
+	- corpo
+	- cabeçalho
+	- coluna indicadora
+	- casa ou células
+	- linha
+	- coluna
+	- rodapé
+
+@teorema de Bayes
+
+
+Aula 03 - Visualização gráfica
+
+Os dados da tabela de forma gráfica. 
+Eles facilitam a análise de dados.
+Devem ser simples, clara, direta e verídicas.
+Elementos:
+	- de linhas
+		~ evoluções de números de um determinado período de tempo
+	- de colunas
+		~ medir fequência de dados categóricos.
+	- de barras
+		~ mesma finalidade do de barras, mas na vertical.
+	- de setores (pizza)
+		~ resaltar a participação do dado no total. Boa para resaltar o dado de uma das variáveis.
+	- histograma
+		~ um barra, mas com distribuição de frequencia de alguma coisa...(sei lá)
+	- diagrama de caixas (boxplot)
+		~ alteração dos dados de uma variável por meio de quartis
+	- grágico de dispensão
+		~ relacionamento entre duas variáveis
+
+Aula 04 - Medidas de posição e medidas de dispersão (variabilidade)
+
+Medidas de posição
+	- Moda
+		~ valor que ocorre com maior frequencia dentro de um conjunto de dados
+	- média
+	- mediana
+		~ posição central de um conjunto de dados, quando eles estão ordenados
+	- quartis
+	- percentis
+
+medidas de variabilidade ou dispersão
+	- amplitude total
+	- variância e desvio padrão
+
+
+
