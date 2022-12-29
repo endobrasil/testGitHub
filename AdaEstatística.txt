@@ -141,3 +141,37 @@ propriedades das operações entre eventos
 - leis de morgan (ou leis da dualidade)
 - outras propriedades
 
+Aula 08 - Probabilidade
+
+zogos de azar...
+- definição classica
+probabilidade=(eventos favoráveis)/(eventos possíveis)
+
+- definição frequentista
+frequencias relativas = (frequencia de evento)/(total de realizações)
+
+Tipos de agrupamentos
+Definição axiomática
+eventos independentes
+eventos mutuamente exclusivos
+probabilidade condicional
+
+
+
+Aula 09 - Análise combinatória
+calcular o numero de possibilidades que podem ocorrer em cada experiência
+
+Tipos de agrupamentos
+- arranjo 
+	~ possibilita a possibilidade de formar um grupo de elementos ordenados.
+- permutação
+- combinação
+	~ difere do arranjo pelos valores não precisarem ser ordenados.
+
+
+
+Aula 10 - Probabilidade total, parcial e Teorema de Bayes
+
+probabilidade condicional
+teorema da probabilidade total
+teorema de bayes
